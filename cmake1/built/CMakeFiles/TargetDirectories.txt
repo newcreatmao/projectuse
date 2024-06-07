@@ -1,5 +1,0 @@
-/home/pi/projectpi/cmake1/built/CMakeFiles/rebuild_cache.dir
-/home/pi/projectpi/cmake1/built/CMakeFiles/edit_cache.dir
-/home/pi/projectpi/cmake1/built/src/CMakeFiles/rebuild_cache.dir
-/home/pi/projectpi/cmake1/built/src/CMakeFiles/edit_cache.dir
-/home/pi/projectpi/cmake1/built/src/CMakeFiles/main.dir

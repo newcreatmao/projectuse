@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/pi/projectpi/cmake1/src/main.cpp
+/home/pi/use/projectuse/cmake1/src/main.cpp
 wiringPi.h
 -
 stdio.h

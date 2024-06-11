@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/pi/projectpi/cmake1/src/../include 
+CXX_INCLUDES = -I/home/pi/use/projectuse/cmake1/src/../include 
 
